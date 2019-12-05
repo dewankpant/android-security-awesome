@@ -1,11 +1,11 @@
 android-security-awesome ![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg) <a href="https://travis-ci.org/ashishb/android-security-awesome"><img src="https://img.shields.io/travis/ashishb/android-security-awesome/master.svg?label=URL%20Check" alt="URL Check"></a>
 ========================
-https://enciphers.com/awesome-android-application-security/
-https://bartblaze.blogspot.com/2014/09/analysing-android-files.html
-https://geekflare.com/mobile-app-security-scanner/
-https://quixxisecurity.com/documentation/interface/rest-api/
-https://docs.ostorlab.co/guide/#backend
-https://appsecwiki.com/#/mobilesecurity
+1. https://enciphers.com/awesome-android-application-security/
+2. https://bartblaze.blogspot.com/2014/09/analysing-android-files.html
+3. https://geekflare.com/mobile-app-security-scanner/
+4. https://quixxisecurity.com/documentation/interface/rest-api/
+5. https://docs.ostorlab.co/guide/#backend
+6. https://appsecwiki.com/#/mobilesecurity
 
 
 
